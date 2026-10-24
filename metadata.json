@@ -1,0 +1,10 @@
+{
+  "name": "JalSuraksha NE",
+  "description": "Smart Community Health Monitoring and Early Warning System for Water-Borne Diseases in Rural Northeast India with GPS water quality radar for visitors and multi-role tools for ASHA workers, doctors, residents, and PHC officials.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone",
+    "geolocation"
+  ],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

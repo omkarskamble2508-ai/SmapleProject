@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">JalSuraksha NE</string>
+    <string name="govt_header_subtitle">MINISTRY OF HEALTH &amp; JAL SHAKTI • NE RURAL MISSION</string>
+    <string name="portal_tagline">Smart Community Health &amp; Water-Borne Disease Early Warning System</string>
+    <string name="role_asha">ASHA Worker</string>
+    <string name="role_doctor">Local Doctor</string>
+    <string name="role_resident">Resident &amp; Visitor</string>
+    <string name="role_phc">PHC Official</string>
+    <string name="tab_overview">Command</string>
+    <string name="tab_map">Risk Map</string>
+    <string name="tab_water_test">Water Test</string>
+    <string name="tab_triage">Triage &amp; QR</string>
+    <string name="tab_analytics">Intelligence</string>
+    <string name="visitor_radar_title">Unfamiliar Village? Check Local Water Safety</string>
+    <string name="disclaimer_triage">Guidance only — not a medical diagnosis. Always consult an ASHA worker or PHC doctor for severe symptoms.</string>
+    <string name="disclaimer_simulator">Note: Simulator outputs are epidemiological estimates for prioritization, not clinical promises.</string>
+</resources>

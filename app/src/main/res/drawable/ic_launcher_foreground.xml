@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="108dp"
+    android:height="108dp"
+    android:viewportWidth="108"
+    android:viewportHeight="108">
+    <!-- Outer civic shield / aura -->
+    <path
+        android:fillColor="#33FFFFFF"
+        android:pathData="M54,18 L80,30 L80,54 C80,72 69,85 54,91 C39,85 28,72 28,54 L28,30 Z" />
+    <!-- Water droplet silhouette -->
+    <path
+        android:fillColor="#FFFFFF"
+        android:pathData="M54,26 C54,26 35,49 35,64 C35,74.5 43.5,83 54,83 C64.5,83 73,74.5 73,64 C73,49 54,26 54,26 Z" />
+    <!-- Medical health cross inside droplet -->
+    <path
+        android:fillColor="#0D9488"
+        android:pathData="M51,53 L57,53 L57,61 L65,61 L65,67 L57,67 L57,75 L51,75 L51,67 L43,67 L43,61 L51,61 Z" />
+    <!-- Saffron early-warning beacon dot at top -->
+    <path
+        android:fillColor="#F59E0B"
+        android:pathData="M54,19 m-4,0 a4,4 0 1,0 8,0 a4,4 0 1,0 -8,0" />
+</vector>
